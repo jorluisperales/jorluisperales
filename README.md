@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jorluisperales
+- 👋 Hi, I’m Jorluis Perales (JP)
 - 👀 I’m interested in DevOps and Cloud engineering
 - 🌱 I’m currently learning AWS, Helm, Ansible, CI/CD, Automation, Bash & python scripting.
 - 💞️ I’m looking to collaborate on Automation projects
