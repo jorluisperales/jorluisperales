@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS, Helm, Ansible, Terraform, CI/CD, Automation & Python scripting.**
 
-- 📝 I regularly write articles on [https://virtualization101.com/](https://virtualization101.com/)
+- 📝 I regularly write articles on [https://virtualizationhub.wordpress.com/](https://virtualizationhub.wordpress.com/)
 
 - 💬 Ask me about **VxRail, VMware HCI, vSAN, Bash Scripting, Vagrant Automation.**
 
