@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorluisperales&label=Profile%20views&color=0e75b6&style=flat" alt="jorluisperales" /> </p>
 
-- 🔭 I’m currently working on [Practicing Terraform](https://github.com/jorluisperales/terraform-practice.git)
+- 🔭 I’m currently working on [Personal Projects]()
 
 - 🌱 I’m currently learning **AWS, Helm, Ansible, Terraform, CI/CD, Automation & Python scripting.**
 
