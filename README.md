@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **VxRail, VMware HCI, vSAN, Bash Scripting, Vagrant Automation.**
 
-- 📫 How to reach me **jorluis.perales@gmail.com**
-
 - ⚡ Fun fact **I was supposed to be a doctor (Cardiologist)**
 
 <h3 align="left">Connect with me:</h3>
